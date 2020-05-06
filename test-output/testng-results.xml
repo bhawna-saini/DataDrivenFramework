@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Login successfully executed<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Data Driven Basics" duration-ms="8387" started-at="2020-05-03T15:28:19Z" finished-at="2020-05-03T15:28:27Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="3521" started-at="2020-05-03T15:28:19Z" finished-at="2020-05-03T15:28:22Z">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="loginAsManager()[pri:0, instance:testcases.LoginTest@32502377]" name="loginAsManager" duration-ms="3173" started-at="2020-05-03T20:58:19Z" finished-at="2020-05-03T20:58:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully executed<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsManager -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test name="AddCustomer" duration-ms="3900" started-at="2020-05-03T15:28:23Z" finished-at="2020-05-03T15:28:26Z">
+      <class name="testcases.AddCustomerTest">
+        <test-method status="PASS" signature="addCustomerTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.AddCustomerTest@54e1c68b]" name="addCustomerTest" duration-ms="3827" started-at="2020-05-03T20:58:23Z" data-provider="dp" finished-at="2020-05-03T20:58:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhawna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saini]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A7A8A9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- testcases.AddCustomerTest -->
+    </test> <!-- AddCustomer -->
+    <test name="OpenAccount" duration-ms="926" started-at="2020-05-03T15:28:26Z" finished-at="2020-05-03T15:28:27Z">
+      <class name="testcases.OpenAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.OpenAccountTest@771a660]" name="setUp" is-config="true" duration-ms="7846" started-at="2020-05-03T20:58:11Z" finished-at="2020-05-03T20:58:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAccountTest(java.lang.String, java.lang.String)[pri:0, instance:testcases.OpenAccountTest@771a660]" name="openAccountTest" duration-ms="883" started-at="2020-05-03T20:58:26Z" data-provider="dp" finished-at="2020-05-03T20:58:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhawna Saini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.OpenAccountTest@771a660]" name="tearDown" is-config="true" duration-ms="666" started-at="2020-05-03T20:58:27Z" finished-at="2020-05-03T20:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.OpenAccountTest -->
+    </test> <!-- OpenAccount -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

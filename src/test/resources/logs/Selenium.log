@@ -1,0 +1,37 @@
+23:21:30,407 DEBUG root:52 - Config file loaded
+23:21:30,413 DEBUG root:61 - ObjectRep file loaded
+23:21:34,450 DEBUG root:69 - Chrome Launched
+23:21:36,671 DEBUG root:73 - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
+23:21:38,954 DEBUG root:15 - Inside Login Test
+23:21:42,166 DEBUG root:21 - Login successfully executed
+23:21:42,186 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:42,189 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:42,190 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:42,191 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:42,191 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:46,065 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:46,065 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:46,065 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:46,065 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:46,065 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:49,569 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:49,569 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:49,569 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:49,569 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:49,569 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:53,066 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:53,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:53,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:53,066 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:53,066 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:56,621 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:56,621 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:56,621 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:56,621 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:56,621 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:57,532 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+23:21:57,532 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+23:21:57,532 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:21:57,532 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:21:57,532 DEBUG cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/C:/Users/Bhawnasaini/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:21:58,206 DEBUG root:95 - Test execution completed
